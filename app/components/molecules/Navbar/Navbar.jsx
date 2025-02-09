@@ -29,7 +29,7 @@ export default function Navbar() {
         <BootstrapNavbar.Collapse id="responsive-BootstrapNavbar-nav">
           <Nav className="ms-auto">
             <Nav.Link
-              href="https://github.com/animemoeus/waifu-animemoeus"
+              href=" "
               target="_blank"
             >
               <Button variant="outline-light">
@@ -38,7 +38,7 @@ export default function Navbar() {
             </Nav.Link>
             <Nav.Link
               eventKey={2}
-              href="https://t.me/animemoeus_bot"
+              href=" "
               target="_blank"
             >
               <Button variant="outline-light">
